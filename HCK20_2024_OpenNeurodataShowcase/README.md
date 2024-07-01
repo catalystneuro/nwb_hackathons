@@ -52,7 +52,7 @@ If you are interested in **presenting** your dandiset(s), register as a presente
 ## Presenters
 * Saskia de Vries, "Allen Institute Observatory - Visual Coding Calcium Imaging Datasets", [DANDI:000728](https://dandiarchive.org/dandiset/000728/draft), [DANDI:000039](https://dandiarchive.org/dandiset/000039), [DANDI:000049](https://dandiarchive.org/dandiset/000049)
 * Alessio Buccino, "SpikeInterface, a unified framework for spike sorting", [DANDI:000034](https://dandiarchive.org/dandiset/000034/0.211030.0713)
-* Xinyue Ma, "Patch-seq recordings from mouse visual cortex", [DANDI:000020](https://dandiarchive.org/dandiset/000020/0.210913.1639)
+* Xinyue Ma, "ElecFeX: a user-friendly toolbox for efficient feature extraction from single-cell electrophysiological recordings", [DANDI:000020](https://dandiarchive.org/dandiset/000020/0.210913.1639)
 * Olivier Winter, "IBL - Brain Wide Map" and "IBL behavioral data", [DANDI:000409](https://dandiarchive.org/dandiset/000409), [DANDI:000045](https://dandiarchive.org/dandiset/000045), [DANDI:000049](https://dandiarchive.org/dandiset/000049)
 * Michael Kyzar, "Data for: Control of working memory maintenance by theta-gamma phase amplitude coupling of human hippocampal neurons" and "Dataset of human-single neuron activity during a Sternberg working memory task.", [DANDI:000673](https://dandiarchive.org/dandiset/000673), [DANDI:000469](https://dandiarchive.org/dandiset/000469)
 * Kevin Le, "Data for: Multimodal single-neuron, intracranial EEG, and fMRI brain responses during movie watching in human patients", [DANDI:000623](https://dandiarchive.org/dandiset/000623)
